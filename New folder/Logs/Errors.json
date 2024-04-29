@@ -1,0 +1,2 @@
+{"level":"error","message":"[antiCrash] :: Unhandled Rejection/Catch","p":{},"reason":{"code":"UND_ERR_CONNECT_TIMEOUT","message":"Connect Timeout Error","name":"ConnectTimeoutError"},"timestamp":"2023-12-17T22:40:01.380Z"}
+{"err":{},"level":"error","message":"[antiCrash] :: Uncaught Exception/Catch (MONITOR)","origin":"uncaughtException","timestamp":"2024-04-29T11:52:38.677Z"}
